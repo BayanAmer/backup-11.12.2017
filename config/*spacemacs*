@@ -1,0 +1,51 @@
+                                                     0.200.10@25.3.2 (spacemacs)
+                          
+
+                              [S P A C E M A C S]
+
+        [?] [Homepage] [Documentation] [Gitter Chat] [Update Spacemacs]
+                  [Update Packages] [Rollback Package Update]
+                     [Release Notes] [Search in Spacemacs]
+
+╭─ Important Notes (Release 0.200.10.x) ───────────────────────────────────────╮
+│                                                                              │
+│                                   HOT FIX RELEASE                            │
+│                                                                              │
+│  - Fix Helm error when selecting a candidate from a Helm buffer (thanks to   │
+│    bmag)                                                                     │
+│  - Fix window number assignation for Neotree buffer window (thanks to        │
+│    duianto)                                                                  │
+│                                                                              │
+╰─ Update your dotfile (SPC f e D) and packages after every update ────────────╯
+
+                        [Click here for full change log]
+
+
+
+              293 packages loaded in 5.815s (e:223 r:2 l:14 b:54)
+
+
+
+Warnings:
+    - Cannot find any of the specified fonts (Source Code Pro)! Font settings may not
+      be correct.      
+    - tern binary not found!      
+
+Recent Files:
+    ~/bFolder/ruby/first_script/local_machine_setup/dotfiles/.spacemacs
+    ~/.spacemacs
+    ~/bFolder/ruby/first_rails/config/database.yml
+    ~/bFolder/ruby/first_rails/*spacemacs*
+    ~/bFolder/ruby/first_script/first_script.rb
+
+Projects:
+    ~/bFolder/ruby/first_script/local_machine_setup/
+    ~/bFolder/ruby/first_script/
+    ~/.emacs.d/
+
+
+
+
+                                
+
+                         Made with   by the community
